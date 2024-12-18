@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/calculator/Main.java
+    visible: true
+    learner_created: false
+  - name: test/MyFirstProjectTest.java
+    visible: false
+    learner_created: false
+  - name: src/calculator/TASK1/Product.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/TASK1/PrintPrices.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/TASK2/PrintTotal.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/35120#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 11 Dec 2024 08:53:36 UTC"
+record: 2
